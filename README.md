@@ -1,3 +1,4 @@
 # 🤖 AI-Playground 🧠
 
-Welcome to the **Artificial Intelligence Playground** repository! This repository serves as a hands-on playground for the artificial intelligence course I am currently taking ("Introduction to AI with Python" from Domestika). Throughout this course, we'll be diving deep into the fascinating world of AI, exploring various algorithms, techniques, and concepts that power intelligent systems. 🚀
+Welcome to my **AI Playground** repository! This is my personal space for experimenting and learning about artificial intelligence. Here, I embark on a journey to explore the exciting world of AI, experimenting with various algorithms, techniques, and concepts that power intelligent systems. 🚀
+
